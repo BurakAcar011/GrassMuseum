@@ -1,0 +1,123 @@
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+body {
+    font-family:"Oswald", sans-serif;
+    color:white;
+}
+#titletop {
+    background-color: #6CE000;
+    padding:20px;
+}
+
+#titletop h1 {
+    text-align:center;
+    font-size: 70px;
+    padding-bottom: 0px;
+    margin-bottom:0px;
+}
+
+#titletop h2 {
+    text-align:center;
+    font-size:50px;
+    padding-top:0px;
+    margin-top:0px;
+}
+
+#campus {
+    background-color: #4D91AC;
+}
+
+#campus h1 {
+    font-size:70px;
+    padding-bottom:0px;
+    margin-bottom:0px;
+    padding-right:10px;
+}
+
+#campus p {
+    font-size:30px;
+    padding-top:0px;
+    margin-top:0px;
+    padding-right:10px;
+    margin-right:10px;
+}
+
+#campus table {
+    margin:auto;
+    padding-top:20px;
+    margin-bottom:0px;
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+#exhibit {
+    background-color:#FF9C00;
+
+}
+
+#exhibit h1 {
+    font-size:70px;
+    text-align:center;
+    margin-top:0;
+    margin-bottom:2px;
+}
+
+#exhibit h2 {
+    text-align:center;
+    font-size:40px;
+    margin-top:0;
+}
+
+#exhibit div {
+    display:flex;
+    gap:20px;
+    align-items:center;
+    justify-content:center;
+}
+
+#exhibit div img {
+    height:200px;
+    width:auto;
+}
+
+#padtxt {
+    color: #FF9C00;
+    margin-bottom:0;
+}
+
+#pricing {
+    background-color: #FF0033;
+}
+
+#pricing h1 {
+    font-size:70px;
+    text-align:center;
+    margin-top:0;
+    margin-bottom:2px;
+}
+
+#pricing h2 {
+    text-align:center;
+    font-size:40px;
+    margin-top:0;
+}
+
+#pricing table {
+    margin-right:auto;
+    margin-left:auto;
+}
+
+#pricing table td, th {
+    font-size:30px;
+}
+
+#pricing iframe {
+    padding-top:10px;
+    margin: 0 auto;
+    display:block;
+}
